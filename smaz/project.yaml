@@ -1,0 +1,9 @@
+homepage: "https://github.com/IvanAssis07/fuzzer"
+language: c
+primary_contact: "ivan.assis07@gmail.com"
+main_repo: "https://github.com/IvanAssis07/fuzzer"
+file_github_issue: true
+sanitizers:
+- address
+- undefined
+- memory
